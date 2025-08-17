@@ -1,9 +1,0 @@
-fastapi
-uvicorn
-pydantic
-pydantic[email]
-numpy
-pandas
-scikit-learn
-streamlit
-requests
